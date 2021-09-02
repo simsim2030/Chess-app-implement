@@ -1,0 +1,7 @@
+{
+  "name": "Chess-app-implement",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

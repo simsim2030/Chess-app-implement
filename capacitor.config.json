@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Chess-app-implement",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
